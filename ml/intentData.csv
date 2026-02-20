@@ -1,0 +1,1182 @@
+text,intent
+भाई कितने बजे हैं,time
+Are you a bot,identity
+कौन सा दिन है भाई,date
+टाइम प्लीज भाई,time
+अभी कितनी गर्मी है,sensor
+आराम करो,exit
+गुणा करना 18 5,math
+बंद हो जा दोस्त,exit
+36 को 4 से भाग दो,math
+जोड़ो 14 86,math
+आपका नाम क्या है प्लीज,identity
+Kya aaj garmi hai,sensor
+इनका योग 43 57,math
+सो जाओ,exit
+घड़ी में क्या समय है भाई,time
+4 इंटू 5,math
+सुनना बंद करो भाई,exit
+स्टॉप,exit
+राम राम,greeting
+10 माइनस 5 कितना है,math
+अपने बारे में बताओ,identity
+आज का तापमान,sensor
+temperature reading,sensor
+तुम्हारा नाम क्या है जी,identity
+बाय दोस्त,exit
+गुणा कर बताओ 21 65,math
+तुम रोबोट हो या इंसान,identity
+10 4 कम करो,math
+राधे राधे मास्टर,greeting
+कैसे हैं आप,greeting
+टाइमर लगाओ 41 मिनट का,time
+सब ठीक है,greeting
+अलार्म लगाओ 2 बजे,time
+आज कितनी तारीख है प्लीज,date
+Humidity level batao,sensor
+घटाना 88 से 29,math
+भाई अभी कितना बजा है भाई,time
+ओ भाई दोस्त,greeting
+राम राम जी मास्टर,greeting
+83 58 गुणा,math
+घटाकर बताओ 85 35,math
+तुम कौन हो,identity
+77 से 27 घटाओ,math
+गुणा बताओ 18 4,math
+जोड़ कर बताओ 24 76,math
+81 डिवाइड 9,math
+भाई टाइम प्लीज प्लीज,time
+क्या तुम इंसान हो प्लीज,identity
+जोड़ना है 7 1,math
+साल कौन सा है,date
+92 से 42 घटाओ,math
+28 और 72 जोड़ो,math
+अब बस,exit
+3 को 99 से भाग दो,math
+56 से 6 निकालो,math
+जोड़ो 37 63,math
+कैसन बा सर,greeting
+आज क्या तारीख है,date
+क्या तुम रोबोट हो,identity
+भाग कर बताओ 28 45,math
+गुणा कर बताओ 78 84,math
+वक्त क्या हुआ है प्लीज,time
+कैलेंडर बताओ भाई,date
+भाई घड़ी में क्या समय है जल्दी,time
+घटाकर बताओ 8 2,math
+सुनिये मास्टर,greeting
+तुम क्या कर सकते हो जी,identity
+घड़ी देख कर बताओ भाई,time
+भाग कर बताओ 9 3,math
+शुभ दोपहर सर,greeting
+वीकेंड कब है,date
+91 से 41 घटाओ,math
+Tell me date,date
+भाग करना है 12 3,math
+28 प्लस 72,math
+अपना नाम बताओ,identity
+समय क्या हुआ है प्लीज,time
+भाग कर बताओ 29 96,math
+सुनो,greeting
+आदाब सर,greeting
+96 को 8 से भाग,math
+तिथि क्या है,date
+4 में 5 जोड़ो,math
+45 डिवाइड 9,math
+इनको घटाओ 96 44,math
+परिचय दो जी,identity
+भाई क्या समय हो रहा है,time
+हेलो जी जी,greeting
+भाग दो 48 6,math
+गुणा करो 3 और 30,math
+7 का 95 से गुणा,math
+नमस्ते जी दोस्त,greeting
+भाग करो,math
+Date check karo,date
+Aaj ki tithi,date
+इनको गुणा करो 2 8,math
+exit,exit
+21 और 92 का जोड़,math
+40 डिवाइड 5,math
+हेलो,greeting
+Konsa saal chal raha hai,date
+3 और 4 गुणा करो,math
+गुणा बताओ 21 3,math
+64 डिवाइड 8,math
+तापमान क्या है,sensor
+इनको घटाओ 94 90,math
+Garmi lag rahi hai temperature check karo,sensor
+शुभ रात्रि दोस्त,exit
+गुड इवनिंग,greeting
+Who is your creator,identity
+आज की डेट क्या है प्लीज,date
+कौन सा महीना चल रहा है,date
+बाद में आना,exit
+कमरे का मौसम कैसा है,sensor
+चलता हूँ भाई,exit
+केम छो दोस्त,greeting
+सेंसर की रीडिंग क्या है,sensor
+बंद करो भाई,exit
+भाई अभी कितना बजा है,time
+क्या हाल है मास्टर,greeting
+80 को 10 से भाग दो,math
+भाग निकालो 64 8,math
+आज की तारीख क्या है भाई,date
+21 59 से भाग करो,math
+9 मिनट का टाइमर लगाओ,time
+भाई क्या समय हो रहा है भाई,time
+63 गुना 100,math
+आज कितनी तारीख है,date
+48 प्लस 52,math
+रेस्ट करो दोस्त,exit
+Aaj konsa din hai,date
+84 माइनस 34,math
+26 और 74 का जोड़,math
+तुम्हारा नाम क्या है,identity
+घटाकर बताओ 90 40,math
+अभिवादन सर,greeting
+क्या समय हो रहा है जल्दी,time
+ह्यूमिडिटी कितनी है,sensor
+सुप्रभात दोस्त,greeting
+तारीख बताओ प्लीज,date
+64 और 62 गुणा करो,math
+लॉग आउट भाई,exit
+जरा तारीख बताना प्लीज,date
+घटाना है 65 15,math
+47 मिनट बाद बताना,time
+बाद में आना दोस्त,exit
+इनको जोड़ो 39 61,math
+आदाब,greeting
+27 मिनट का टाइमर लगाओ,time
+गुणा बताओ 23 2,math
+क्या आज उमस है,sensor
+48 में से 94 घटाओ,math
+वर्ष कौन सा है,date
+लॉग आउट दोस्त,exit
+कितने बजे हैं,time
+तुम क्या हो,identity
+40 मिनट बाद बताना,time
+Tumhari pehchan kya hai,identity
+आज कौन सा दिवस है प्लीज,date
+10 को 2 से भाग दो,math
+सत श्री अकाल दोस्त,greeting
+81 को 9 से भाग,math
+भाई टाइम क्या है प्लीज,time
+8 से 3 घटाओ,math
+मुझे तारीख जाननी है भाई,date
+सप्ताह का कौन सा दिन है,date
+सी यू,exit
+एग्जिट भाई,exit
+भाग कर बताओ 6 1,math
+गुणा करना है 5 3,math
+राधे राधे भाई,greeting
+बाय,exit
+56 डिवाइड 7,math
+अभी कितना बजा है,time
+22 मिनट का टाइमर लगाओ,time
+इनका जोड़ क्या है 6 4,math
+77 और 90 का गुणनफल,math
+गुणा बताओ 22 4,math
+भाग निकालो 69 17,math
+Tum machine ho kya,identity
+भाई मुझे समय जानना है भाई,time
+नमस्ते भाई,greeting
+अभिवादन दोस्त,greeting
+गुणा बताओ 7 13,math
+अलार्म लगाओ 6 बजे,time
+3 प्लस 9 कितना है,math
+51 प्लस 49,math
+जोड़ कर बताओ 22 78,math
+60 माइनस 30,math
+एग्जिट करो,exit
+भाई घड़ी देख कर बताओ,time
+गुणा करना 20 3,math
+95 प्लस 39 कितना है,math
+आज की तिथि बताओ प्लीज,date
+डेट प्लीज प्लीज,date
+क्विट,exit
+भाग निकालो 100 10,math
+2 और 3 जोड़ो,math
+भाई समय बताओ,time
+गुणा बताओ 16 7,math
+47 प्लस 53,math
+28 इंटू 31 कितना है,math
+15 का 15 से गुणा,math
+आज कौन सा दिन है प्लीज,date
+घटाना 100 से 40,math
+जोड़ कर बताओ 28 48,math
+अभी का समय बताओ,time
+Namaste tum kon,identity
+घटाना 99 से 49,math
+स्टॉप लिसनिंग भाई,exit
+अगला महीना कौन सा है,date
+आप कौन हैं जी,identity
+23 डिवाइड 38 कितना है,math
+room ka mausam,sensor
+विक्रम संवत क्या है भाई,date
+13 में से 39 निकालो,math
+दिनांक बताओ भाई,date
+जय श्री राम भाई,greeting
+टाटा बाय बाय,exit
+तारीख और दिन,date
+59 से 9 निकालो,math
+36 मिनट का टाइमर लगाओ,time
+जोड़ना है 92 2,math
+नमस्ते जी,greeting
+भाग कर बताओ 80 20,math
+भाग निकालो 6 2,math
+40 में 91 जोड़ो,math
+12 का 12 से गुणा,math
+नमस्कार मास्टर,greeting
+तारीख और दिन प्लीज,date
+राम राम जी,greeting
+कौन सा साल चल रहा है प्लीज,date
+शट डाउन,exit
+गुणा बताओ 73 19,math
+आपका नाम क्या है जी,identity
+59 माइनस 9,math
+कैसन बा जी,greeting
+81 से 31 घटाओ,math
+जोड़ कर बताओ 16 5,math
+कौन सा साल चल रहा है भाई,date
+शट डाउन दोस्त,exit
+30 डिवाइड 6,math
+66 माइनस 16,math
+भाग दो 144 12,math
+क्या समय हो रहा है प्लीज,time
+क्या कमरे में गर्मी है,sensor
+भाग निकालो 72 9,math
+52 माइनस 34 कितना है,math
+शक संवत बताओ भाई,date
+Identify yourself,identity
+भाई अभी का समय बताओ,time
+12 में से 20 घटाओ,math
+जोड़ो 42 58,math
+आज का दिनांक,date
+कौन सा साल चल रहा है,date
+आज कौन सा वार है प्लीज,date
+भाई समय क्या हुआ है जल्दी,time
+4 का 25 से गुणनफल,math
+72 को 8 से भाग,math
+8 का 9 से गुणनफल,math
+गुणा करना 17 3,math
+37 49 भाग दो,math
+जोड़ो 48 52,math
+93 से 43 घटाओ,math
+परिचय दीजिये जी,identity
+इनको गुणा करो 69 22,math
+कौन सी तारीख है आज भाई,date
+तापमान चेक करो,sensor
+घड़ी में क्या समय है,time
+सत श्री अकाल जी,greeting
+टाइम प्लीज,time
+इनको जोड़ो 55 45,math
+sensor on karo,sensor
+Calendar dikhao,date
+घड़ी देख कर बताओ,time
+6 का 16 से गुणनफल,math
+रेस्ट करो भाई,exit
+इनका योग 23 77,math
+तुम्हारा नाम क्या है,identity
+भाई क्या समय हो रहा है जल्दी,time
+काफी है,exit
+क्या हाल है दोस्त,greeting
+इनका योग 33 67,math
+भाई अभी कितना बजा है जल्दी,time
+35 और 65 जोड़ो,math
+भाई टाइम प्लीज जल्दी,time
+अलविदा भाई,exit
+गुड आफ्टरनून दोस्त,greeting
+Apne baare mein kuch batao,identity
+गुणा करो 2 और 50,math
+90 से 40 घटाओ,math
+Humidity kitni hai room mein,sensor
+घटाकर बताओ 14 5,math
+31 और 69 का जोड़,math
+जोड़ कर बताओ 82 36,math
+टाटा,exit
+भाई वक्त क्या हुआ है,time
+सत श्री अकाल,greeting
+तुम्हें किस लिए बनाया गया है,identity
+आराम करो भाई,exit
+फिर मिलेंगे भाई,exit
+परिचय दीजिये,identity
+88 माइनस 38,math
+घटाना है 61 96,math
+51 से 1 निकालो,math
+तुम्हारा क्या नाम है,identity
+हाय दोस्त,greeting
+केम छो सर,greeting
+शांत हो जाओ भाई,exit
+9 गुणा 9,math
+90 को 5 से भाग,math
+What is the date,date
+63 में से 73 घटाओ,math
+Date batao bhai,date
+62 से 12 निकालो,math
+आज डेट क्या है,date
+फिर मिलेंगे,exit
+भाग निकालो 71 34,math
+शुभ संध्या जी,greeting
+इनका योग 44 56,math
+गुणा करो 4 और 25,math
+Ur name please,identity
+32 से 12 निकालो,math
+स्टॉप लिसनिंग,exit
+गुणा करना 19 3,math
+बाद में बात करते हैं,exit
+जोड़ो 16 84,math
+आपका नाम क्या है,identity
+बाय बाय दोस्त,exit
+इनका जोड़ क्या है 44 81,math
+आज का समय क्या है जल्दी,time
+64 में से 34 घटाओ,math
+सो जाओ दोस्त,exit
+भाग कर बताओ 64 8,math
+39 में से 68 निकालो,math
+तारीख बताओ,date
+98 में से 66 निकालो,math
+भाग करना है 51 58,math
+खुद के बारे में बताओ प्लीज,identity
+15 प्लस 85,math
+कल मिलेंगे भाई,exit
+33 प्लस 67,math
+भाई घड़ी देख कर बताओ जल्दी,time
+गुड मॉर्निंग भाई,greeting
+वक्त क्या हुआ है,time
+घटाओ 60 47,math
+इनका योग 31 69,math
+जोड़ कर बताओ 15 85,math
+Tumhara naam kya hai,identity
+ठंड कितनी है कमरे में,sensor
+घड़ी देख कर बताओ जल्दी,time
+हे मास्टर,greeting
+कैसन बा मास्टर,greeting
+Thermometer dikhao,sensor
+आप कौन हैं,identity
+विक्रम संवत क्या है प्लीज,date
+राधे राधे सर,greeting
+भाग दो 98 14,math
+95 गुना 31,math
+बस करो,exit
+टाइमर चालू करो 19 मिनट,time
+74 और 26 का जोड़,math
+मुझे तारीख जाननी है,date
+सो जाओ भाई,exit
+82 से 42 निकालो,math
+हेलो फ्रेंड,greeting
+8 का 12 से गुणनफल,math
+टाइमर चालू करो 38 मिनट,time
+कैसन बा,greeting
+डेट बताओ भाई,date
+11 डिवाइड 72 कितना है,math
+7 का 14 से गुणनफल,math
+50 से 10 निकालो,math
+Garmi ka level batao,sensor
+ठीक है बाय,exit
+जोड़ना है 29 80,math
+भाई कितने बजे हैं प्लीज,time
+26 मिनट बाद बताना,time
+टाइम प्लीज प्लीज,time
+रुको दोस्त,exit
+86 माइनस 36,math
+इनको भाग करो 86 36,math
+तुम्हारी पहचान क्या है,identity
+78 माइनस 28,math
+30 और 60 जोड़ो,math
+जोड़ो 18 82,math
+भाई अभी क्या वक्त हुआ है,time
+टाइम क्या है भाई,time
+आज कौन सा दिन है,date
+10 का 11 से गुणनफल,math
+सात बजे अलार्म लगाओ,time
+11 का 2 से गुणा,math
+32 से 16 निकालो,math
+इनको गुणा करो 42 16,math
+हेलो फ्रेंड भाई,greeting
+जोड़ कर बताओ 10 90,math
+44 8 जोड़ दो,math
+भाग कर बताओ 81 11,math
+56 मिनट का टाइमर लगाओ,time
+85 में 6 जोड़ो,math
+भाग निकालो 25 5,math
+63 से 14 घटाओ,math
+परिचय दीजिये प्लीज,identity
+बाय बाय,exit
+65 से 15 निकालो,math
+गुड आफ्टरनून मास्टर,greeting
+तुम क्या कर सकते हो प्लीज,identity
+गुणा करो 3 और 33,math
+ओ हेलो जी,greeting
+तुम्हारा वर्जन क्या है,identity
+इनको जोड़ो 42 58,math
+46 माइनस 16,math
+जाग जाओ,greeting
+भाग निकालो 144 12,math
+शुभ प्रभात सर,greeting
+सलाम,greeting
+Tapman kitne degree hai,sensor
+Andar ka mausam,sensor
+महीना और तारीख बताओ,date
+नमस्कार दोस्त,greeting
+बंद करो,exit
+53 माइनस 3,math
+इनका योग 42 58,math
+हिंदू कैलेंडर के अनुसार क्या है,date
+टाइम प्लीज जल्दी,time
+69 माइनस 19,math
+33 गुना 100,math
+घटाकर बताओ 75 30,math
+Aaj ka tapman kya hai,sensor
+स्वागत है,greeting
+Temperature now,sensor
+बात मत करो भाई,exit
+आज कौन वार है,date
+Tum kahan rehte ho,identity
+भाग कर बताओ 48 6,math
+Hawa mein nami kitni hai,sensor
+ठीक है बाय दोस्त,exit
+आज डेट क्या है भाई,date
+72 71 से भाग करो,math
+क्या तुम इंसान हो,identity
+गुड इवनिंग सर,greeting
+भाग दो 81 9,math
+बंद हो जा,exit
+घटाना है 6 1,math
+10 गुणा 10,math
+56 और 44 जोड़ो,math
+बाय भाई,exit
+घटाना है 68 23,math
+कैलेंडर में देखो आज क्या है प्लीज,date
+क्या तुम इंसान हो जी,identity
+राम राम जी सर,greeting
+शुभ प्रभात जी,greeting
+Humidity kitna percent hai,sensor
+Tumhara boss kon hai,identity
+72 को 8 से भाग दो,math
+जरा तारीख बताना भाई,date
+93 और 86 का जोड़,math
+5 7 जोड़ दो,math
+सेंसर का डेटा दिखाओ,sensor
+अपना परिचय दो,identity
+हाय दोस्त भाई,greeting
+98 में से 33 घटाओ,math
+अपना नाम बताओ जी,identity
+घड़ी में क्या समय है जल्दी,time
+45 डिवाइड 5,math
+इनको घटाओ 7 3,math
+Room stats batao,sensor
+इनका योग 41 59,math
+लॉग आउट,exit
+जोड़ कर बताओ 42 58,math
+टाइमर चालू करो 33 मिनट,time
+थर्मामीटर क्या कह रहा है,sensor
+चुप रहो दोस्त,exit
+इनका योग 55 45,math
+डेट प्लीज,date
+गुणा करना है 79 4,math
+भाई टाइम प्लीज,time
+कितने बजे हैं भाई,time
+अपना परिचय दो प्लीज,identity
+सब कैसा है,greeting
+13 गुना 62,math
+भाग निकालो 4 38,math
+कैलेंडर में देखो आज क्या है भाई,date
+सुप्रभात जी,greeting
+घटाओ 34 25,math
+तुम क्या काम करते हो,identity
+हेलो सर,greeting
+66 से 16 निकालो,math
+सी यू दोस्त,exit
+इनको जोड़ो 29 71,math
+भाग कर बताओ 32 43,math
+घटाकर बताओ 55 5,math
+Happy birthday (identity check),identity
+भाग निकालो 100 20,math
+आराम करो दोस्त,exit
+हे,greeting
+क्या चल रहा है,greeting
+आज का दिनांक भाई,date
+20 में से 28 घटाओ,math
+जोड़ो 35 65,math
+आज का दिन क्या है प्लीज,date
+अभिवादन,greeting
+सप्ताह का कौन सा दिन है प्लीज,date
+इनको जोड़ो 68 9,math
+गुणा करो 5 और 20,math
+कैसे हो,greeting
+जोड़ो 51 49,math
+इनका योग 19 81,math
+45 माइनस 12 कितना है,math
+आज कौन सा वार है,date
+57 माइनस 19,math
+सुनिये दोस्त,greeting
+रोको इसे भाई,exit
+घटाकर बताओ 60 10,math
+नमस्ते मास्टर,greeting
+Sensor info,sensor
+बातचीत खत्म करो भाई,exit
+Tum ladka ho ya ladki,identity
+समय क्या हुआ है,time
+84 से 34 घटाओ,math
+Dinaank batao,date
+81 माइनस 31,math
+कमरे का तापमान बताओ,sensor
+तुम क्या हो जी,identity
+ओ हेलो,greeting
+गुड मॉर्निंग जी,greeting
+24 में 88 जोड़ो,math
+29 गुना 97,math
+भाग निकालो 49 7,math
+गुणा करना 16 4,math
+Tareekh batao,date
+25 और 75 का जोड़,math
+बस इतना ही भाई,exit
+नमस्ते जी भाई,greeting
+Temperature sensor on,sensor
+तुम किसने बनाया प्लीज,identity
+66 51 जोड़ दो,math
+Tumhara model kya hai,identity
+जोड़ो 29 71,math
+भाग निकालो 36 4,math
+गुणा बताओ 19 2,math
+नमस्कार जी दोस्त,greeting
+ओ भाई भाई,greeting
+7 का 6 से गुणनफल,math
+एग्जिट,exit
+इनका योग 28 72,math
+75 डिवाइड 15,math
+42 को 6 से भाग दो,math
+बाहर निकलो दोस्त,exit
+खत्म करो,exit
+जोड़ना है 89 89,math
+नमी कितनी है,sensor
+उठो,greeting
+अभी गर्मी कितनी है,sensor
+इनका योग 27 73,math
+तुम्हारा परिचय क्या है,identity
+बाय बाय भाई,exit
+72 और 51 गुणा करो,math
+41 गुना 22,math
+अलविदा दोस्त,exit
+Tumhara purpose kya hai,identity
+10 में से 3 घटाओ,math
+Temperature reading please,sensor
+Assistant ka naam kya hai,identity
+आज का समय क्या है प्लीज,time
+शुभ संध्या,greeting
+गुणा बताओ 22 2,math
+हेलो जी,greeting
+भाग निकालो 81 9,math
+रूम टेम्परेचर बताओ,sensor
+Current day,date
+9 को 57 से भाग दो,math
+टेंपरेचर कितना है भाई,sensor
+72 माइनस 22,math
+इनको जोड़ो 58 97,math
+भाग करना है 22 58,math
+आज क्या तारीख है प्लीज,date
+68 89 गुणा,math
+Temperature monitor,sensor
+टाइमर लगाओ 16 मिनट का,time
+7 गुणा 14,math
+दो मिनट बाद बताना,time
+इनको घटाओ 10 13,math
+72 को 9 से भाग,math
+घटाओ 75 25,math
+टाइमर चालू करो 54 मिनट,time
+बस करो भाई,exit
+इनका योग 39 61,math
+समय बताओ जल्दी,time
+64 माइनस 14,math
+परिचय दो,identity
+वर्ष कौन सा है प्लीज,date
+भाग कर बताओ 65 17,math
+68 से 18 घटाओ,math
+90 को 10 से भाग,math
+घटाकर बताओ 70 20,math
+9 गुणा 11,math
+टाइम क्या है,time
+गुणा करना 14 2,math
+टाइमर लगाओ 52 मिनट का,time
+क्या एसी चलाने की जरूरत है,sensor
+गुणा बताओ 11 13,math
+घटाकर बताओ 98 25,math
+ठीक है बाय भाई,exit
+टाइमर लगाओ 4 मिनट का,time
+36 डिवाइड 62 कितना है,math
+अलार्म लगाओ 12 बजे,time
+15 का 2 से गुणा,math
+गुड आफ्टरनून,greeting
+घटाकर बताओ 80 20,math
+अब जाओ भाई,exit
+100 को 4 से भाग दो,math
+इनको जोड़ो 4 6,math
+कैसे हो सर,greeting
+Sensor report,sensor
+Aaj chutti hai kya (date check),date
+घटाओ 85 35,math
+सुप्रभात भाई,greeting
+हे भाई,greeting
+आज कौन सा वार है भाई,date
+तुम क्या कर सकते हो,identity
+विक्रम संवत क्या है,date
+24 से 12 घटाओ,math
+शुभ संध्या दोस्त,greeting
+बात मत करो,exit
+Tell me about yourself,identity
+गुणा कर बताओ 25 24,math
+100 को 10 से भाग दो,math
+डिस्कनेक्ट दोस्त,exit
+क्या आज छुट्टी है,date
+सत श्री अकाल भाई,greeting
+भाग कर बताओ 63 9,math
+4 का 6 से गुणा,math
+इनको घटाओ 2 12,math
+21 मिनट बाद बताना,time
+कैलेंडर बताओ,date
+घटाकर बताओ 90 30,math
+Tumhara janm kab hua,identity
+Temperature batao,sensor
+भाग कर बताओ 100 25,math
+7 गुणा 7,math
+Mahina batao,date
+गुणा करना 20 5,math
+69 को 77 से भाग,math
+शांत हो जाओ,exit
+79 डिवाइड 58 कितना है,math
+जोड़ो 27 73,math
+इनको जोड़ो 26 74,math
+प्रणाम सर,greeting
+24 और 76 का जोड़,math
+सलाम भाई,greeting
+31 11 घटा दो,math
+नमस्ते जी सर,greeting
+93 को 81 से भाग दो,math
+गुड नाइट,exit
+घटाकर बताओ 80 30,math
+8 2 भाग दो,math
+स्टॉप भाई,exit
+मालिक कौन है तुम्हारा,identity
+सुनिये भाई,greeting
+डिस्कनेक्ट,exit
+चुप रहो,exit
+अब जाओ,exit
+अलार्म लगाओ 3 बजे,time
+गुणा करो 8 और 12,math
+क्या तुम इंसान हो,identity
+राम राम दोस्त,greeting
+अलार्म लगाओ,time
+Robot ho kya,identity
+जाओ अब भाई,exit
+कल कौन सी तारीख थी,date
+भाग निकालो 71 27,math
+39 प्लस 61,math
+भाई मुझे समय जानना है,time
+हे दोस्त,greeting
+टाइमर लगाओ 39 मिनट का,time
+तारीख क्या है प्लीज,date
+96 37 का गुणा,math
+समय क्या हुआ है जल्दी,time
+20 में 22 जोड़ो,math
+जोड़ कर बताओ 50 50,math
+आज का दिन क्या है,date
+13 गुणा 13,math
+80 का 80 से गुणा,math
+क्या तुम रोबोट हो प्लीज,identity
+तुम्हारा घर कहाँ है,identity
+Humidity check karo,sensor
+66 62 से भाग करो,math
+Aaj ki date batao,date
+ऑफ हो जाओ,exit
+अब बस दोस्त,exit
+3 और 3 का जोड़,math
+भाग कर बताओ 49 7,math
+गुड मॉर्निंग,greeting
+घटाकर बताओ 70 10,math
+99 से 49 घटाओ,math
+76 को 89 से बाँटो,math
+गुड इवनिंग जी,greeting
+9 को 3 से भाग,math
+खुद के बारे में बताओ जी,identity
+10 को 5 से बाँटो,math
+नमस्कार जी,greeting
+टाइमर चालू करो,time
+6 इंटू 7,math
+26 में 10 जोड़ो,math
+खामोश,exit
+कैलेंडर चेक करो,date
+भाग कर बताओ 63 7,math
+खत्म करो दोस्त,exit
+जरा समय बताना प्लीज,time
+15 गुना 15,math
+Month konsa hai,date
+12 गुणा 12,math
+ऑफ हो जाओ भाई,exit
+जोड़ कर बताओ 33 67,math
+अब जाओ दोस्त,exit
+कैसे हो जी,greeting
+Current temperature,sensor
+45 मिनट का टाइमर लगाओ,time
+क्या हाल चाल,greeting
+87 75 से भाग करो,math
+9 गुणा 15 कितना होता है,math
+जय श्री राम,greeting
+चलता हूँ,exit
+25 और 75 जोड़ो,math
+9 4 घटा दो,math
+43 माइनस 21,math
+दिनांक बताओ,date
+भाग निकालो 98 14,math
+खुद के बारे में बताओ,identity
+अरे भाई जी,greeting
+जोड़ कर बताओ 53 47,math
+भाग करो 99 को 3 से,math
+तुम कौन हो जी,identity
+Gender kya hai tumhara,identity
+मुझे समय जानना है जल्दी,time
+घटाना है 91 44,math
+इनको भाग करो 84 98,math
+Thand kitni hai,sensor
+भाई जरा समय बताना भाई,time
+1 72 भाग दो,math
+तापमान क्या है,sensor
+Name batao apna,identity
+गुणा करो 5 और 25,math
+तुम्हारा मालिक कौन है प्लीज,identity
+आज कौन सा दिवस है,date
+भाग कर बताओ 63 37,math
+Temperature or humidity batao,sensor
+45 को 5 से भाग,math
+84 डिवाइड 12,math
+जोड़ कर बताओ 89 4,math
+इनको जोड़ो 48 52,math
+शट डाउन भाई,exit
+58 माइनस 8,math
+52 और 59 का गुणनफल,math
+5 में से 2 निकालो,math
+आज क्या तारीख है भाई,date
+कमरे का तापमान बताओ,sensor
+26 और 65 का जोड़,math
+9 का 10 से गुणनफल,math
+आज की तिथि बताओ भाई,date
+क्या हाल है,greeting
+आज की डेट क्या है,date
+अभिवादन भाई,greeting
+नमस्ते दोस्त,greeting
+तुम्हारी पहचान क्या है जी,identity
+तुम कौन हो प्लीज,identity
+सब बढ़िया,greeting
+क्या समय हो रहा है भाई,time
+Check heat level,sensor
+भाग दो 121 11,math
+दो नंबर जोड़ो 25 79,math
+Climate check room,sensor
+11 गुणा 11,math
+डिस्कनेक्ट भाई,exit
+4 प्लस 96,math
+abhi ka tapman,sensor
+भाई घड़ी में क्या समय है,time
+Check room heat,sensor
+प्रोग्राम बंद करो,exit
+रूम में ठंड है क्या,sensor
+भाई समय क्या हुआ है,time
+गुड मॉर्निंग सर,greeting
+जोड़ कर बताओ 34 66,math
+7 में से 56 घटाओ,math
+74 डिवाइड 85 कितना है,math
+मुझे समय जानना है,time
+Who am I talking to,identity
+88 से 38 घटाओ,math
+45 को 88 से भाग,math
+गुणा बताओ 34 9,math
+5 और 5 का गुणनफल,math
+टाइम क्या है प्लीज,time
+Temperature status,sensor
+49 माइनस 19,math
+66 और 22 गुणा करो,math
+भाई जरा समय बताना जल्दी,time
+समय बताओ भाई,time
+इनका जोड़ क्या है 70 48,math
+कमरे का हाल बताओ,sensor
+भाई समय बताओ भाई,time
+गुणा बताओ 13 5,math
+जोड़ कर बताओ 65 14,math
+हीट इंडेक्स बताओ,sensor
+36 डिवाइड 4,math
+8 2 से भाग करो,math
+हाय दोस्त सर,greeting
+गुणा करना है 10 7,math
+Humidity percentage batao,sensor
+घटाना है 76 65,math
+Temperature kitna degree hai,sensor
+Current date,date
+सुनिये सर,greeting
+शुभ दोपहर,greeting
+34 को 75 से भाग दो,math
+जोड़ कर बताओ 87 13,math
+गुणा बताओ 72 76,math
+मुझे समय जानना है भाई,time
+व्हाट इस योर नेम,identity
+Sensor reading batao,sensor
+राधे राधे,greeting
+99 को 9 से भाग,math
+Heat check,sensor
+टाटा बाय बाय दोस्त,exit
+दो नंबर जोड़ो 33 48,math
+तुम्हारा मालिक कौन है जी,identity
+13 का 13 से गुणा,math
+घटाना 100 से 50,math
+दो नंबर जोड़ो 34 93,math
+आज कितनी तारीख है भाई,date
+Year batao,date
+सिस्टम बंद करो,exit
+9 का 9 से गुणा,math
+आज की डेट,date
+गुणा बताओ 6 15,math
+आज का दिनांक प्लीज,date
+दो नंबर जोड़ो 2 5,math
+12 और 45 जोड़कर बताओ,math
+भाग निकालो 121 11,math
+6 डिवाइड 2 कितना है,math
+जोड़ो 28 72,math
+घटाओ 90 40,math
+43 और 51 का जोड़,math
+भाई टाइम क्या है जल्दी,time
+100 डिवाइड 20,math
+अभी कितना बजा है प्लीज,time
+तुम किसने बनाया,identity
+आज की तिथि बताओ,date
+घटाओ 46 56,math
+महीना और तारीख बताओ प्लीज,date
+100 को 20 से भाग दो,math
+राम राम जी दोस्त,greeting
+आज का समय क्या है भाई,time
+आज का पंचांग,date
+इनको जोड़ो 31 69,math
+39 को 75 से भाग,math
+जरा समय बताना जल्दी,time
+Kamre mein kitni garmi hai,sensor
+गुणा करना है 52 81,math
+22 प्लस 78,math
+8 गुणा 12,math
+शुभ प्रभात,greeting
+सलाम वालेकुम,greeting
+घटाकर बताओ 65 15,math
+Degree celsius batao,sensor
+Current climate inside,sensor
+आज कौन सा दिन है,date
+12 और 88 जोड़ो,math
+खामोश भाई,exit
+Kaun bol raha hai,identity
+राम राम जी भाई,greeting
+परसों कौन सा दिन होगा,date
+रोको इसे,exit
+आज का दिन क्या है भाई,date
+जरा समय बताना,time
+घटाओ 1 53,math
+आज का समय क्या है,time
+Date please,date
+27 डिवाइड 3,math
+20 में 55 जोड़ो,math
+Aaj ki tarikh,date
+भाई आज का समय क्या है,time
+अभी क्या वक्त हुआ है भाई,time
+हाय वहां सर,greeting
+57 68 घटा दो,math
+भाग कर बताओ 92 2,math
+Tum kon ho,identity
+तुम्हें किसने बनाया,identity
+41 प्लस 59,math
+तुम क्या हो प्लीज,identity
+Kal konsi date thi,date
+Aaj ka room temp,sensor
+जोड़ो 24 76,math
+20 प्लस 80,math
+हाय वहां,greeting
+37 प्लस 63,math
+Kisne banaya tumhe,identity
+जाओ अब दोस्त,exit
+सप्ताह का कौन सा दिन है भाई,date
+इनको भाग करो 8 4,math
+आज का कैलेंडर बताओ,date
+6 गुणा 16,math
+प्रणाम मास्टर,greeting
+Today's date,date
+कैसे हो तुम,greeting
+Reading do sensor ki,sensor
+30 और 20 गुणा करो,math
+तारीख क्या है,date
+67 घटा दो 17,math
+भाग कर बताओ 81 9,math
+कौन सी तारीख है आज,date
+सुनिये,greeting
+इनको जोड़ो 47 53,math
+58 प्लस 42,math
+बस इतना ही,exit
+डेट बताओ,date
+14 का 14 से गुणा,math
+सेंसर डाटा बताओ,sensor
+घटाओ 80 20,math
+दो नंबर जोड़ो 87 91,math
+वक्त क्या हुआ है जल्दी,time
+हेलो फ्रेंड जी,greeting
+हेलो जी मास्टर,greeting
+आप कौन हैं प्लीज,identity
+Aaj shukravar hai kya,date
+83 माइनस 33,math
+Are you AI,identity
+केम छो जी,greeting
+Sensor update do,sensor
+सलाम जी,greeting
+76 माइनस 26,math
+रेस्ट करो,exit
+अभी का समय बताओ भाई,time
+खामोश दोस्त,exit
+इनको जोड़ो 49 61,math
+63 में से 67 निकालो,math
+64 को 8 से भाग,math
+क्या तुम रोबोट हो जी,identity
+Sensor kya bol raha hai,sensor
+शुभ दोपहर जी,greeting
+भाग कर बताओ 72 8,math
+घटाओ 9 6,math
+21 और 76 का गुणनफल,math
+क्या समय हो रहा है,time
+गुणा कर बताओ 6 7,math
+जरा तारीख बताना,date
+11 का 9 से गुणनफल,math
+गुड इवनिंग दोस्त,greeting
+सुनना बंद करो दोस्त,exit
+आज का पंचांग प्लीज,date
+अरे भाई,greeting
+सलाम वालेकुम दोस्त,greeting
+घटाओ 80 30,math
+110 को 10 से भाग दो,math
+6 गुणा 15,math
+Aaj somwar hai kya,date
+Apna introduction do,identity
+भाई टाइम क्या है,time
+भाग कर बताओ 54 6,math
+गुणा बताओ 3 3,math
+केम छो,greeting
+भाई कितने बजे हैं जल्दी,time
+सुनना बंद करो,exit
+5 गुणा 20,math
+Humidity bata do,sensor
+17 प्लस 83,math
+30 डिवाइड 5,math
+77 माइनस 27,math
+बातचीत खत्म करो,exit
+वर्ष कौन सा है भाई,date
+27 गुना 41,math
+केम छो भाई,greeting
+94 14 भाग दो,math
+इंट्रोडक्शन दो,identity
+25 16 गुणा,math
+26 और 74 जोड़ो,math
+36 प्लस 64,math
+चुप रहो भाई,exit
+भाई अभी का समय बताओ जल्दी,time
+आज की तारीख क्या है प्लीज,date
+जोड़ कर बताओ 3 8,math
+Room environment check,sensor
+3 इंटू 4 कितना है,math
+49 और 51 का जोड़,math
+नमस्कार,greeting
+दिन और तारीख,date
+एग्जिट दोस्त,exit
+Tapman kitna hai,sensor
+कितने बजे हैं प्लीज,time
+इनको जोड़ो 36 64,math
+कितने बजे हैं जल्दी,time
+89 डिवाइड 74 कितना है,math
+नमस्कार जी सर,greeting
+अलविदा,exit
+Mausam vibhag (local),sensor
+प्रणाम जी,greeting
+रुको भाई,exit
+41 और 53 जोड़ो,math
+इनका जोड़ क्या है 30 76,math
+आज डेट क्या है प्लीज,date
+बाहर निकलो,exit
+आज की तारीख क्या है,date
+तुम्हारी पहचान क्या है प्लीज,identity
+ह्यूमिडिटी लेवल चेक करो,sensor
+Room temperature kya hai,sensor
+Kya tum sun sakte ho,identity
+Sardi kitni hai,sensor
+78 से 23 घटाओ,math
+जोड़ कर बताओ 46 54,math
+इनको घटाओ 84 85,math
+शुभ रात्रि,exit
+लोकल तापमान बताओ,sensor
+घटाना है 95 45,math
+जोड़ो 67 और 89,math
+अपना परिचय दो जी,identity
+अपना नाम बताओ प्लीज,identity
+Hu r u,identity
+ओ भाई,greeting
+भाग दो 63 7,math
+कल मिलेंगे दोस्त,exit
+भाई जरा समय बताना प्लीज,time
+हाय मास्टर,greeting
+अभी का समय बताओ जल्दी,time
+टाइमर चालू करो 32 मिनट,time
+DHT reading dikhao,sensor
+हाय जी,greeting
+हाय,greeting
+Temperature abhi,sensor
+भाई घड़ी देख कर बताओ भाई,time
+2 5 का गुणा,math
+तिथि क्या है प्लीज,date
+भाई घड़ी में क्या समय है प्लीज,time
+83 16 घटा दो,math
+सेंसर क्या कह रहा है,sensor
+तिथि बताओ,date
+आज की डेट क्या है भाई,date
+Temperature check,sensor
+100 को 25 से भाग दो,math
+भाई जरा समय बताना,time
+गुड नाइट दोस्त,exit
+रुको,exit
+40 27 घटा दो,math
+Mausam kaisa hai room mein,sensor
+17 मिनट का टाइमर लगाओ,time
+Cold check,sensor
+अभी क्या वक्त हुआ है जल्दी,time
+सलाम सर,greeting
+तारीख क्या है भाई,date
+1 5 घटा दो,math
+अभी कितना बजा है जल्दी,time
+इनको जोड़ो 41 59,math
+एग्जिट करो दोस्त,exit
+डिग्री सेल्सियस में बताओ,sensor
+हाय दोस्त जी,greeting
+86 का 34 से गुणा,math
+भाई टाइम क्या है भाई,time
+टाइमर चालू करो 24 मिनट,time
+89 से 39 घटाओ,math
+5 का 20 से गुणनफल,math
+Tapman mapo,sensor
+13 प्लस 87,math
+56 प्लस 34 कितना,math
+जय श्री राम मास्टर,greeting
+हाय भाई,greeting
+घड़ी में क्या समय है प्लीज,time
+57 से 7 निकालो,math
+81 41 जोड़ दो,math
+नमस्कार जी भाई,greeting
+आज कौन सा दिवस है भाई,date
+AC chalana chahiye kya,sensor
+Humidity mapo,sensor
+Sensor check,sensor
+89 और 11 का जोड़,math
+82 माइनस 32,math
+कल मिलेंगे,exit
+29 से 17 घटाओ,math
+Kya room garam hai,sensor
+गुड आफ्टरनून सर,greeting
+घटाना है 80 29,math
+शक संवत बताओ,date
+इनको भाग करो 33 60,math
+51 87 गुणा,math
+हाय वहां दोस्त,greeting
+70 53 जोड़ दो,math
+60 66 घटा दो,math
+24 और 76 जोड़ो,math
+प्रोग्राम एंड करो,exit
+सलाम वालेकुम भाई,greeting
+8 गुणा 11,math
+Check moisture level,sensor
+आज का पंचांग भाई,date
+टाइमर चालू करो 30 मिनट,time
+इनको जोड़ो 38 62,math
+गुणा करना 12 4,math
+सुप्रभात,greeting
+परिचय दो प्लीज,identity
+Temperature bata do,sensor
+घटाओ 100 25,math
+8 का 8 से गुणा,math
+15 और 85 का जोड़,math
+89 माइनस 39,math
+भाग करो 77 को 7 से,math
+81 को 9 से भाग दो,math
+अभी क्या वक्त हुआ है,time
+7 2 गुणा,math
+हाय दोस्त मास्टर,greeting
+बस करो दोस्त,exit
+और बताओ,greeting
+भाग दो 100 20,math
+85 गुना 12,math
+तिथि क्या है भाई,date
+इनको घटाओ 61 25,math
+54 से 4 निकालो,math
+इनको भाग करो 57 2,math
+Intro please,identity
+10 गुणा 11,math
+जाओ अब,exit
+डेट प्लीज भाई,date
+जोड़ो 52 48,math
+Day of the week,date
+4 मिनट बाद बताना,time
+42 और 18 गुणा करो,math
+समय बताओ,time
+जोड़ कर बताओ 19 81,math
+4 को 45 से भाग दो,math
+10 का 10 से गुणा,math
+कैलेंडर में देखो आज क्या है,date
+1 माइनस 9 कितना है,math
+टाइम क्या है जल्दी,time
+3 38 का गुणा,math
+नमस्ते,greeting
+भाग दो 169 13,math
+दो नंबर जोड़ो 89 36,math
+भाई मुझे समय जानना है प्लीज,time
+जय श्री राम सर,greeting
+सप्ताह का कौन सा वार है,date
+तुम्हारा नाम क्या है प्लीज,identity
+73 माइनस 23,math
+Sensor status,sensor
+आज का दिन बताओ,date
+गुणा करना 9 11,math
+सी यू भाई,exit
+तुम कौन हो भाई,identity
+तुम्हारा मालिक कौन है,identity
+भाई टाइम प्लीज भाई,time
+14 प्लस 86,math
+तुम किसने बनाया जी,identity
+घटाओ 70 10,math
+घटाकर बताओ 90 15,math
+इनका जोड़ क्या है 95 74,math
+30 21 जोड़ दो,math
+86 10 घटा दो,math
+46 प्लस 54,math
+38 प्लस 62,math
+नमस्ते जी मास्टर,greeting
+प्रणाम,greeting
+45 प्लस 55,math
+Creator ka naam batao,identity
+कौन सी तारीख है आज प्लीज,date
+गुणा करना है 6 98,math
+बंद करो दोस्त,exit
+12 5 जोड़ दो,math
+Room ka temperature batao,sensor
+हु आर यू,identity
+तारीख क्या है आज,date
+तीन मिनट का टाइमर लगाओ,time
+Tumhari age kya hai,identity
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
+पाँच गुना दस करो, math
