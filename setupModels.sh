@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 Starting Model Download for Hindi Assistant..."
+echo "Starting Model Download for Hindi Assistant..."
 
 # 1. Download and Extract Vosk Model
 echo "--- Downloading Vosk STT Model (Hindi) ---"
@@ -22,4 +22,4 @@ echo "--- Downloading Rohan Hindi Voice ---"
 wget -q --show-progress https://huggingface.co/rhasspy/piper-voices/resolve/main/hi/hi_IN/rohan/medium/hi_IN-rohan-medium.onnx -P models/piper/
 wget -q --show-progress https://huggingface.co/rhasspy/piper-voices/resolve/main/hi/hi_IN/rohan/medium/hi_IN-rohan-medium.onnx.json -P models/piper/
 
-echo "✅ All models and engines downloaded successfully!"
+echo "All models and engines downloaded successfully!"
