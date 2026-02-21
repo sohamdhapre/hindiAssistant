@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Starting Model Download for Hindi Assistant..."
+echo "Models Download for Hindi Assistant..."
 
 # 1. Download and Extract Vosk Model
 echo "--- Downloading Vosk STT Model (Hindi) ---"
