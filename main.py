@@ -21,10 +21,10 @@ def processEvents(EVENTS: list):
         if event["trigger"] <= now:
 
             if event["type"] == "timer":
-                print("⏰ टाइमर पूरा हुआ!\n")
+                print("टाइमर पूरा हुआ!\n")
                 speech.speaker.speak("टाइमर पूरा हुआ!\n")
             elif event["type"] == "alarm":
-                print("🔔 अलार्म बज रहा है!\n")
+                print("अलार्म बज रहा है!\n")
                 speech.speaker.speak("अलार्म बज रहा है!\n")
             EVENTS.remove(event)
 
